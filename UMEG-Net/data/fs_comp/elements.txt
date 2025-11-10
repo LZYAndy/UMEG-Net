@@ -1,0 +1,12 @@
+takeoff
+landing
+axel
+flip
+toe-loop
+lutz
+flying-sit
+loop
+flying-camel
+salchow
+flying-upright
+tow-loop

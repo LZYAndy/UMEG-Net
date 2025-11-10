@@ -1,0 +1,7972 @@
+[
+  {
+    "video": "men_olympic_short_program_2018_01_00019225_00023525",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 639,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 660,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 688,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 702,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1475,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1490,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1578,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1590,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2181,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2196,
+        "label": "flip_landing",
+        "comment": "flip"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_02_00028750_00033050",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 714,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 731,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 747,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 763,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1268,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1286,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1367,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1378,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2196,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2216,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_03_00039100_00043350",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 690,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 713,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 737,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 756,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1314,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1334,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1430,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1442,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2307,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2326,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_04_00048975_00053150",
+    "num_frames": 4175,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 769,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 788,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1428,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1449,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2238,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2258,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2281,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2295,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3818,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3831,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_05_00058500_00062850",
+    "num_frames": 4350,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 625,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 648,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1258,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1273,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2358,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2375,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2394,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2409,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2587,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2600,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_06_00068525_00072825",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 606,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 626,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 647,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 661,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1148,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1164,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2132,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2148,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3395,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3401,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_07_00090200_00094500",
+    "num_frames": 4300,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 648,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 666,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1179,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1197,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1341,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1351,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2121,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2139,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_08_00100125_00104375",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 540,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 563,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1113,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1132,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1320,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1329,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2197,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2216,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2244,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2257,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_09_00110175_00114450",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 756,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 775,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1341,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1361,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1464,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1476,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2395,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2413,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2431,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2448,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_10_00120325_00124625",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 740,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 760,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1407,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1425,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1446,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1464,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2589,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2608,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3629,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3644,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_11_00129850_00134100",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 704,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 722,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1165,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1184,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1445,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1455,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2797,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2819,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2840,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2854,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_12_00139800_00144125",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 615,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 634,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 654,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 669,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1053,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1068,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1381,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1387,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3579,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3600,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_13_00161975_00166300",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 628,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 648,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 670,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 683,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1065,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1085,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1250,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1262,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2631,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2652,
+        "label": "flip_landing",
+        "comment": "flip"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_14_00172125_00176400",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 412,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 431,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 455,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 468,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1078,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1096,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2427,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2447,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2540,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2552,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_15_00182075_00186325",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 513,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 532,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 551,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 570,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1154,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1174,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1636,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1649,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3324,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3344,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_16_00191625_00195825",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 711,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 731,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1315,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1333,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1354,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1371,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2545,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2562,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2613,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2624,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_17_00201750_00205975",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 570,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 591,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2096,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2113,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2135,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2151,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2656,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2673,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3886,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3897,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_18_00211000_00215325",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 524,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 544,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 567,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 585,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1141,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1162,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2218,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2237,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3592,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3606,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_19_00233400_00237625",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 635,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 656,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 675,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 691,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1333,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1355,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1601,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1611,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2391,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2411,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_20_00243325_00247600",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 649,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 668,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 689,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 707,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1295,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1317,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1480,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1494,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2246,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2264,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_21_00253325_00257575",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 691,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 709,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1158,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1176,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1197,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1213,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2278,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2298,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3348,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3358,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_22_00263175_00267425",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 674,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 693,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1240,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1258,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1277,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1294,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1579,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1589,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2711,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2733,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_23_00272975_00277250",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 540,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 561,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 995,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1016,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2294,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2314,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2333,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2350,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2549,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2562,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_24_00283000_00287175",
+    "num_frames": 4175,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 750,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 768,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 791,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 811,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1388,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1408,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2278,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2299,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 3960,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3971,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_25_00307075_00311350",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 627,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 647,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 887,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 897,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2300,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2321,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2846,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2867,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2883,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2902,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_26_00317650_00321950",
+    "num_frames": 4300,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 807,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 827,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 979,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 994,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2402,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2421,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2760,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2780,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_27_00326425_00330700",
+    "num_frames": 4275,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 630,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 650,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1168,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1189,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1326,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1339,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2167,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2187,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_28_00336125_00340400",
+    "num_frames": 4275,
+    "num_events": 12,
+    "events": [
+      {
+        "frame": 708,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 729,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 834,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 845,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2860,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2878,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2899,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2915,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3358,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3376,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3811,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel - other"
+      },
+      {
+        "frame": 3822,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel - other"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_29_00345950_00350225",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 622,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 643,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 664,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 682,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1188,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1208,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1356,
+        "label": "flying-upright_takeoff",
+        "comment": "flying_upright"
+      },
+      {
+        "frame": 1367,
+        "label": "flying-upright_landing",
+        "comment": "flying_upright"
+      },
+      {
+        "frame": 2134,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2154,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_olympic_short_program_2018_30_00356100_00360375",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 785,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 808,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 829,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 845,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1383,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1404,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1537,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1547,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2415,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2435,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_01_00034225_00038525",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 819,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 841,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1328,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1348,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1515,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1524,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3364,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 3383,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 3405,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3422,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_02_00044050_00048375",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 712,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 730,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1368,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1387,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1411,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1428,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2511,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2531,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3676,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3689,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_03_00053975_00058200",
+    "num_frames": 4225,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 650,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 668,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1333,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1352,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1494,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1502,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2183,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2200,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_04_00062325_00066575",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 538,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 561,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 918,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 935,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 961,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 976,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2174,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2192,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2338,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2348,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_05_00071625_00075975",
+    "num_frames": 4350,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 717,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 736,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1252,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1271,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1297,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1313,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3124,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3136,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3704,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3723,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_06_00093950_00098100",
+    "num_frames": 4150,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 750,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 770,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1343,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1362,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1379,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1395,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1505,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1516,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2785,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2804,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_07_00103400_00107575",
+    "num_frames": 4175,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 500,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 520,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1025,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1045,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1155,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1165,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2407,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2425,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2452,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2469,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_08_00112975_00117250",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 474,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 493,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3208,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3226,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3247,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3263,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3669,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3686,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3821,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3832,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_09_00122775_00127050",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 769,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 787,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1354,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1372,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1463,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1474,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2410,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2428,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2447,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2463,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_10_00133450_00137700",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 537,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 554,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 580,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 596,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1251,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1271,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2193,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2209,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3886,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3897,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_11_00176550_00180875",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 665,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 684,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1500,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1519,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1751,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1760,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2539,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2557,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2579,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2594,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_12_00185775_00190075",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 622,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 640,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1044,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1060,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1079,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1094,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2734,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2747,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3534,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3553,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_13_00196950_00201250",
+    "num_frames": 4300,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 646,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 666,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1246,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1265,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2194,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2213,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3916,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3927,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_14_00206750_00211050",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 714,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 732,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1359,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1376,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2377,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2393,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2415,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2430,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3496,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3506,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_15_00215450_00219675",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 707,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 724,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 746,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 764,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 873,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 884,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1635,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1652,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2535,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2552,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_16_00237250_00241525",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 852,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 872,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 895,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 910,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1060,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1071,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2304,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2323,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2623,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2640,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_17_00245875_00250150",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 527,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 548,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 572,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 591,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1136,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1159,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1634,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1645,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3336,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3356,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_18_00255650_00259975",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 946,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 966,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1459,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1477,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1505,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1521,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1651,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1662,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3464,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 3483,
+        "label": "loop_landing",
+        "comment": "loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_19_00265150_00269425",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 726,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 749,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1347,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1366,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1385,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1403,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3338,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3356,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3499,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3512,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_20_00275025_00279300",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 613,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 632,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 650,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 665,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1041,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1061,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1386,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1395,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3566,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3584,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_21_00311750_00316075",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 606,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 627,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1035,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1056,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1226,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1238,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2596,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2614,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2632,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2646,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_22_00321100_00325350",
+    "num_frames": 4250,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 740,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 761,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1214,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1235,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1484,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1494,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2820,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2841,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_23_00330575_00334925",
+    "num_frames": 4350,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 647,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 668,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1269,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1285,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2358,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2376,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2396,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2410,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2583,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2592,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_24_00341000_00345300",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 558,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 579,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1166,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1187,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1281,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1291,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2088,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2106,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2123,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2140,
+        "label": "flip_landing",
+        "comment": "flip"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_25_00350300_00354450",
+    "num_frames": 4150,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 739,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 758,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1393,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1414,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1519,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1528,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2271,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2290,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_26_00371775_00376100",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 473,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 494,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 524,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 539,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1150,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1171,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2244,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2265,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3656,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3670,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_27_00381550_00385775",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 651,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 675,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 697,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 714,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1283,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1304,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1382,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1393,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2263,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2284,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_28_00391750_00395975",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 799,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 819,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1429,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1446,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1461,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1480,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1797,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1806,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2428,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2447,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_29_00400700_00404875",
+    "num_frames": 4175,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 722,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 742,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 764,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 783,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1359,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1380,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2298,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2315,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 3965,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3975,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_30_00411275_00415500",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 660,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 680,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1196,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1214,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1234,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1251,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1536,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1547,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2686,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2706,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_31_00420700_00424950",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 753,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 773,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1306,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1326,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1348,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1364,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2575,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2595,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2638,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2650,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_32_00448850_00453100",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 630,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 651,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 669,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 685,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1207,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1228,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1350,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1363,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2160,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2180,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_33_00458475_00462750",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 540,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 561,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 995,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1017,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2298,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2318,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2333,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2350,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2533,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2543,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_34_00468025_00472325",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 824,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 845,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 866,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 883,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1006,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1019,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2439,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2457,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2782,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2801,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_35_00477850_00482100",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 634,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 656,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 674,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 696,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1300,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1318,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1513,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1525,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2264,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2284,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_36_00487675_00491925",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 756,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 778,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 799,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 816,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1321,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1342,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1475,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1486,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2348,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2367,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "men_world_short_program_2018_37_00497500_00501775",
+    "num_frames": 4275,
+    "num_events": 12,
+    "events": [
+      {
+        "frame": 670,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 689,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 805,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 816,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2848,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2863,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2913,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2928,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3346,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3365,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3814,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel - other"
+      },
+      {
+        "frame": 3824,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel - other"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_01_00019125_00023350",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 521,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 539,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 558,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 574,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 905,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 916,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2122,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2144,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3600,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3618,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_02_00028975_00033275",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 824,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 840,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 860,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 873,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1213,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1231,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2142,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2159,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2246,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2257,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_03_00038750_00042975",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 518,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 534,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1040,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1058,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1074,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1092,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1413,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1424,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2108,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2126,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_04_00048950_00053200",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 793,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 811,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 836,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 855,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1442,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1461,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1533,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1544,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3193,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3210,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_05_00058775_00063075",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 606,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 622,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 642,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 657,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1485,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1494,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2337,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2352,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2558,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2573,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_06_00068425_00072750",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 593,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 609,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 799,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 810,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2849,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2866,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2888,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2904,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3250,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3267,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_07_00090250_00094600",
+    "num_frames": 4350,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 550,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 570,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1538,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1545,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2528,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2547,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2567,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2579,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2953,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2968,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_08_00100075_00104325",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 546,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 563,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 582,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 600,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1034,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1052,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1224,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1237,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2076,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2092,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_09_00110100_00114375",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 794,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 812,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 833,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 847,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1240,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1259,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2509,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2527,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2605,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2618,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_10_00120125_00124375",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 515,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 536,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 551,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 569,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1103,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1121,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2256,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2273,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2381,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2396,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_11_00129625_00133900",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 681,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 698,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 717,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 733,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1264,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1283,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1485,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1496,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2547,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2565,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_12_00139700_00144000",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 648,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 667,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 690,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 705,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1414,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1426,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2188,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2207,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2558,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2576,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_13_00162925_00167175",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 682,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 699,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 3086,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 3101,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3120,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3134,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3467,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3483,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3548,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3560,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_14_00172825_00177100",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 627,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 644,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 661,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 679,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2158,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2178,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2264,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2276,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3825,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3841,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_15_00182450_00186750",
+    "num_frames": 4300,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 595,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 615,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 970,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 988,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1459,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1471,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2427,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2446,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_16_00192800_00197075",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 547,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 566,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 583,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 603,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 736,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 749,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2090,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2108,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2476,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2492,
+        "label": "flip_landing",
+        "comment": "flip"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_17_00202550_00206850",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 532,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 550,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 915,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 933,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 951,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 968,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1268,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1279,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3832,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3847,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_18_00212550_00216800",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 620,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 639,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 662,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 675,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 782,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 792,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1672,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1690,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2700,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2716,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_19_00234550_00238825",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 1963,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1972,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2946,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2964,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2982,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2999,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3349,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 3365,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3580,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3599,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_20_00244425_00248700",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 604,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 626,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1162,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1180,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1201,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1220,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1376,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1390,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2241,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2259,
+        "label": "loop_landing",
+        "comment": "loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_21_00254025_00258300",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 631,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 648,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 666,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 685,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1362,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1373,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2213,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2233,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2682,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2699,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_22_00264175_00268475",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 568,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 587,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1313,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1322,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2920,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2940,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2959,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2973,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3686,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3703,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_23_00273750_00277925",
+    "num_frames": 4175,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 626,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 642,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1984,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2000,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2022,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2038,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2307,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2323,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2537,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2548,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_24_00283725_00288000",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 745,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 763,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 786,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 801,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1699,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1707,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2447,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2466,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2705,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2722,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_25_00310800_00315000",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 376,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 388,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2315,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2334,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2362,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2377,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2881,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2899,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3154,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3169,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_26_00320525_00324775",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 785,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 802,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 822,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 838,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1079,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1086,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2371,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2387,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3802,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3817,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_27_00330000_00334225",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 597,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 617,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 632,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 650,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1272,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1292,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1535,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1546,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2304,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2321,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_28_00340000_00344225",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 455,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 465,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2541,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2560,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2569,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2585,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2996,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 3013,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 3340,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3355,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_29_00350225_00354475",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 715,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 735,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 758,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 775,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1272,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1291,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1384,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1395,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2344,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2360,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_olympic_short_program_2018_30_00359750_00364075",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 866,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 885,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2124,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2143,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2165,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2185,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2507,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2524,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2683,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2692,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_01_00034700_00038925",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 781,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 799,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1405,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1422,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1441,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1454,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2277,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2293,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2389,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2403,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_02_00043725_00048000",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 594,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 612,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 631,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 646,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1477,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1486,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2315,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2331,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2535,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2550,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_03_00053300_00057600",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 545,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 561,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 583,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 593,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1543,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1552,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2539,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2560,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2941,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2956,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_04_00062325_00066525",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 664,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 683,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 699,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 711,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 988,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1011,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1502,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1518,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3873,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3885,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_05_00071750_00076075",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 438,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 454,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2119,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2135,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 2159,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2174,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2453,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2465,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3263,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3278,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_06_00092725_00096925",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 659,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 676,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 695,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 714,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 892,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 905,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2718,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2738,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3025,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3040,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_07_00103175_00107375",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 721,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 737,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 761,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 773,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1312,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1330,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 3479,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3496,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3645,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3658,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_08_00112775_00117050",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 933,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 951,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1369,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1386,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1405,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1421,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1528,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1542,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3340,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3357,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_09_00122050_00126300",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 616,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 633,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 653,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 667,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1248,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1268,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1472,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1483,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2537,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2553,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_10_00131825_00136050",
+    "num_frames": 4225,
+    "num_events": 8,
+    "events": [
+      {
+        "frame": 791,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 806,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1134,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1151,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1988,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2005,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2094,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2104,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_11_00175175_00179450",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 572,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 591,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 612,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 627,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1080,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1098,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2475,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2492,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2684,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2694,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_12_00184450_00188650",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 725,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 743,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 763,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 776,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1153,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1171,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2196,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2212,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2293,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2303,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_13_00194200_00198525",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 648,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 665,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 686,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 701,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1113,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1130,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1279,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1286,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3940,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3956,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_14_00203575_00207850",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 609,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 625,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 642,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 657,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1260,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1278,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 1355,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1367,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3583,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3599,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_15_00212650_00216875",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 644,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 661,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 680,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 700,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1206,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1221,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1403,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1416,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2966,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2983,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_16_00233550_00237825",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 683,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 702,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 3092,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 3110,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3128,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3143,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3474,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3490,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3558,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 3569,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_17_00243625_00247825",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 453,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 471,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 487,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 503,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1019,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1039,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1257,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1267,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1950,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 1968,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_18_00253500_00257800",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 496,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 511,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 532,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 548,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 997,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1015,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1188,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1201,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2118,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2134,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_19_00263450_00267750",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 549,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 567,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 787,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 802,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2851,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2868,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2889,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2906,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3273,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3290,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_20_00273925_00278150",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 524,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 542,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 560,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 576,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 879,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 888,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2082,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2100,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3596,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3612,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_21_00320925_00325175",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 637,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 655,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 674,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 689,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2768,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2785,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 3311,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3328,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 3429,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3438,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_22_00330900_00335150",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 487,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 505,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 870,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 888,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 911,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 928,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1212,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1225,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3794,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3812,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_23_00340775_00345050",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 545,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 563,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 584,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 602,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 750,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 763,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2098,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2114,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2504,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2524,
+        "label": "flip_landing",
+        "comment": "flip"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_24_00350250_00354500",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 521,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 537,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 710,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 721,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2760,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2777,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2799,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2817,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 3407,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 3423,
+        "label": "flip_landing",
+        "comment": "flip"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_25_00360050_00364325",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 595,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 615,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 633,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 650,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1212,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1230,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2100,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2112,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 3718,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3735,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_26_00381750_00386000",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 624,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 642,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 663,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 680,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1349,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1359,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2193,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2213,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2675,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2692,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_27_00391150_00395400",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 605,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 624,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 644,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 657,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 750,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 762,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1636,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1655,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2681,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2697,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_28_00400750_00405000",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 729,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 745,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 771,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 787,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1669,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1677,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2423,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2440,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2686,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2701,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_29_00410050_00414275",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 633,
+        "label": "salchow_takeoff",
+        "comment": "salchow"
+      },
+      {
+        "frame": 650,
+        "label": "salchow_landing",
+        "comment": "salchow"
+      },
+      {
+        "frame": 669,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 686,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2077,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2095,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2361,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2377,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2586,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2596,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_30_00419825_00424150",
+    "num_frames": 4325,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 649,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 669,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 1252,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 1269,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 1289,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1307,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1472,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1482,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2369,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2386,
+        "label": "loop_landing",
+        "comment": "loop"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_31_00429175_00433425",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 562,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 580,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 603,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 619,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1446,
+        "label": "flying-sit_takeoff",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 1460,
+        "label": "flying-sit_landing",
+        "comment": "flying_sit"
+      },
+      {
+        "frame": 2439,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2457,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2724,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2740,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_32_00458150_00462450",
+    "num_frames": 4300,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 735,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 751,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 911,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 923,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2470,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2487,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2505,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2520,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2811,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2830,
+        "label": "flip_landing",
+        "comment": "flip"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_33_00467675_00471900",
+    "num_frames": 4225,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 690,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 708,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 729,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 748,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1271,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 1289,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 1389,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1397,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2337,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2356,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_34_00477800_00482000",
+    "num_frames": 4200,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 420,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 432,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2488,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2508,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 2517,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2533,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 2951,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2969,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 3298,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3313,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_35_00487625_00491975",
+    "num_frames": 4350,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 878,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 900,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 920,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 938,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 2112,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 2131,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 2426,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2445,
+        "label": "axel_landing",
+        "comment": "axel"
+      },
+      {
+        "frame": 2607,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2619,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_36_00497000_00501275",
+    "num_frames": 4275,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 625,
+        "label": "flip_takeoff",
+        "comment": "flip"
+      },
+      {
+        "frame": 644,
+        "label": "flip_landing",
+        "comment": "flip"
+      },
+      {
+        "frame": 659,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 676,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1293,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1311,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 1550,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1560,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2326,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 2343,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "video": "women_world_short_program_2018_37_00506675_00510925",
+    "num_frames": 4250,
+    "num_events": 10,
+    "events": [
+      {
+        "frame": 797,
+        "label": "lutz_takeoff",
+        "comment": "lutz"
+      },
+      {
+        "frame": 812,
+        "label": "lutz_landing",
+        "comment": "lutz"
+      },
+      {
+        "frame": 833,
+        "label": "toe-loop_takeoff",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 849,
+        "label": "toe-loop_landing",
+        "comment": "toe_loop"
+      },
+      {
+        "frame": 1083,
+        "label": "flying-camel_takeoff",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 1089,
+        "label": "flying-camel_landing",
+        "comment": "flying_camel"
+      },
+      {
+        "frame": 2382,
+        "label": "loop_takeoff",
+        "comment": "loop"
+      },
+      {
+        "frame": 2399,
+        "label": "loop_landing",
+        "comment": "loop"
+      },
+      {
+        "frame": 3815,
+        "label": "axel_takeoff",
+        "comment": "axel"
+      },
+      {
+        "frame": 3829,
+        "label": "axel_landing",
+        "comment": "axel"
+      }
+    ],
+    "fps": 25,
+    "width": 1920,
+    "height": 1080
+  }
+]
